@@ -1,0 +1,8 @@
+.DS_Store
+PUBLISH.md
+__pycache__/
+*.pyc
+items.json
+input.json
+instagram/
+instagram-stories/

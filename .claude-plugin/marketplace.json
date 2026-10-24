@@ -1,0 +1,19 @@
+{
+  "name": "intropix",
+  "owner": {
+    "name": "Intropix",
+    "email": "team.intropix@gmail.com"
+  },
+  "metadata": {
+    "description": "Instagram scraper skills by Intropix: save stories, reels and posts, audit competitors, track brand deals, collect business contacts",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "intropix",
+      "source": "./",
+      "description": "Save Instagram stories, reels and posts, download a competitor's Instagram, track brand deals and collect business contacts with the Intropix scrapers on Apify",
+      "category": "data-extraction"
+    }
+  ]
+}

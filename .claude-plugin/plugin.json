@@ -1,0 +1,33 @@
+{
+  "name": "intropix",
+  "displayName": "Intropix",
+  "version": "1.0.0",
+  "description": "Save Instagram stories, reels and posts, download a competitor's Instagram, track brand deals and collect business contacts with the Intropix scrapers on Apify. Public business, creator and brand accounts; no Instagram login.",
+  "author": {
+    "name": "Intropix",
+    "email": "team.intropix@gmail.com",
+    "url": "https://apify.com/intropix"
+  },
+  "homepage": "https://github.com/Intropix-team/instagram-scraper-skills",
+  "repository": "https://github.com/Intropix-team/instagram-scraper-skills",
+  "license": "MIT",
+  "keywords": [
+    "instagram",
+    "instagram-scraper",
+    "instagram-downloader",
+    "instagram-stories",
+    "instagram-reels",
+    "competitor-analysis",
+    "influencer-marketing",
+    "apify",
+    "scraping"
+  ],
+  "supportUrl": "https://github.com/Intropix-team/instagram-scraper-skills/issues",
+  "privacyPolicyUrl": "https://github.com/Intropix-team/instagram-scraper-skills/blob/main/PRIVACY.md",
+  "mcpServers": {
+    "apify": {
+      "type": "http",
+      "url": "https://mcp.apify.com/?tools=call-actor"
+    }
+  }
+}

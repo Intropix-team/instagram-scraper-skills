@@ -67,8 +67,8 @@ Use these skills only for public business, creator and brand accounts and for
 legitimate business purposes (competitive monitoring, brand protection,
 partnership and market research, B2B outreach). Do not target personal
 accounts, build profiles of individuals, or keep results longer than your
-purpose needs. The full Terms of Use and the privacy notice are on each
-scraper's page; see also [PRIVACY.md](PRIVACY.md).
+purpose needs. Full terms: [TERMS.md](TERMS.md), plus the Terms of Use and
+privacy notice on each scraper's page; see also [PRIVACY.md](PRIVACY.md).
 
 Intropix is independent and not affiliated with, endorsed by, or connected to
 Instagram or Meta.

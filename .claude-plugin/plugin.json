@@ -24,6 +24,8 @@
   ],
   "supportUrl": "https://github.com/Intropix-team/instagram-scraper-skills/issues",
   "privacyPolicyUrl": "https://github.com/Intropix-team/instagram-scraper-skills/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/Intropix-team/instagram-scraper-skills/blob/main/TERMS.md",
+  "documentationUrl": "https://github.com/Intropix-team/instagram-scraper-skills#readme",
   "mcpServers": {
     "apify": {
       "type": "http",

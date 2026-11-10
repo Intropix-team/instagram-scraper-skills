@@ -15,8 +15,7 @@ short audit of the account.
   private person's account, say the scraper's terms do not allow it and stop.
 - Tagged accounts, mentions and partners in the results can be private people:
   do not scrape them in turn or build profiles of them.
-- Keep the results only as long as the user's purpose needs them (the terms
-  suggest at most 30 days), and do not republish them as a dataset.
+- Keep the results only as long as the user's purpose needs them, and do not republish them as a dataset.
 
 ## 1. Build the input
 

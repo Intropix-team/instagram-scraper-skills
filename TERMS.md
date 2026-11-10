@@ -1,7 +1,7 @@
 # Terms of use: Intropix Instagram scraper skills
 
 Operated by Intropix, contact: team.intropix@gmail.com.
-Last updated: 24-10-2026.
+Last updated: 10-11-2026.
 
 **1. What the skills are.** Instructions and a helper script that let an AI
 agent run the Intropix Instagram scrapers on Apify in your own Apify account
@@ -36,15 +36,14 @@ brand accounts.
   orientation, religious or political views, or of a person's whereabouts
   from location data;
 - target or collect data about persons under 16;
-- keep results longer than your stated business purpose needs (as a
-  guideline, no longer than 30 days), or resell or republish them as a
-  dataset;
-- circumvent the scrapers' limits or Instagram's access controls;
+- resell or republish raw scraped data as a dataset;
+- circumvent the rate limits or caps of the scrapers;
 - process the data in violation of GDPR, UK GDPR, CCPA or other applicable
   data protection law.
 
 **5. Your responsibilities.** You are an independent data controller for the
-data you obtain. You are responsible for a lawful basis, for honouring data
+data you obtain. Keep results only as long as your purpose needs them. You
+are responsible for a lawful basis, for honouring data
 subject rights for the copies you hold, and for your own retention and
 deletion. The skills keep no data of their own; see [PRIVACY.md](PRIVACY.md).
 
@@ -52,9 +51,13 @@ deletion. The skills keep no data of their own; see [PRIVACY.md](PRIVACY.md).
 public prices. You are responsible for the runs your agent starts.
 
 **7. No warranty; liability.** The skills are provided as is, without
-warranty of any kind. Results depend on Instagram and Apify being available.
-Intropix is not liable for loss of profit or for indirect, consequential,
-special, exemplary or punitive damages arising from use of the skills.
+warranty of any kind. Results depend on Instagram, the scrapers' data sources
+and Apify being available, and may change with them without notice. To the
+extent permitted by law, Intropix is not liable for loss of profit or for
+indirect, consequential, special, exemplary or punitive damages arising from
+use of the skills, and our total liability is limited to the fees you paid
+for the specific scraper runs a claim concerns, provided you report it to us
+within 14 days of those runs.
 
 **8. Independence.** Intropix is independent and not affiliated with,
 endorsed by, or connected to Instagram or Meta.

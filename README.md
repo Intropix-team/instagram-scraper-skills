@@ -3,7 +3,7 @@
 Agent skills that save Instagram stories, reels and posts, download a
 competitor's Instagram, track brand deals and collect business contacts. They
 run the [Intropix](https://apify.com/intropix) Instagram scrapers on Apify:
-no Instagram login, no cookies, public business, creator and brand accounts
+no Instagram login or cookies needed on your side, public business, creator and brand accounts
 only, and a free Apify plan is enough to try them (10 results per run, 40 per
 day).
 

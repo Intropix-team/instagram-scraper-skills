@@ -1,6 +1,6 @@
 # Privacy policy: Intropix Instagram scraper skills
 
-Last updated: 21-10-2026. Contact: team.intropix@gmail.com.
+Last updated: 10-11-2026. Contact: team.intropix@gmail.com.
 
 **What the skills are.** Instructions and one helper script that let an AI
 agent run the Intropix Instagram scrapers on Apify on your behalf. The skills
@@ -24,9 +24,8 @@ for them and receives nothing from them directly.
 
 **What the skills store.** Only the files and JSON/CSV records they write to
 the folder you work in. Intropix never receives a copy. You decide how long to
-keep them; the scrapers' terms ask you to keep results no longer than your
-business purpose needs (as a guideline, 30 days) and never to use them for
-personal accounts.
+keep them; the scrapers' terms ask you to keep results only as long as your
+purpose needs them and never to use them for personal accounts.
 
 **Children.** The skills are not intended for people under 18 and must not be
 used to collect data about persons under 16.

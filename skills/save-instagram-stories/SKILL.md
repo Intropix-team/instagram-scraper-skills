@@ -14,8 +14,7 @@ or video file plus one JSON record per story.
 - Public **business, creator and brand accounts** only. If the user asks for a
   private person's account, say the scraper's terms do not allow it and stop.
   Private accounts are never readable.
-- Keep the results only as long as the user's purpose needs them (the terms
-  suggest at most 30 days), and do not republish them as a dataset.
+- Keep the results only as long as the user's purpose needs them, and do not republish them as a dataset.
 
 Stories disappear 24 hours after posting, so a run returns only what is live
 right now. To keep an archive, run this once a day into the same folder; the

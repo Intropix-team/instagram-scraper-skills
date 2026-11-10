@@ -18,8 +18,7 @@ sheet.
   means the account does not show it. Never guess an address.
 - The data is for business-to-business contact. Unsolicited marketing mail can
   need the recipient's consent in some countries (EU, UK); remind the user once.
-- Keep the results only as long as the user's purpose needs them (the terms
-  suggest at most 30 days), and do not resell or republish them.
+- Keep the results only as long as the user's purpose needs them, and do not resell or republish them.
 
 ## 1. Build the input
 

@@ -118,7 +118,7 @@ scanned, $0.0019 per delivered reel ($1.90 per 1,000). Skipped photos and
 failed lookups are not charged.
 
 For the reel's music, shares and location, the PRO edition
-`intropix/instagram-posts-reels-scraper-pro` takes the same input at $3.90 per
+`intropix/instagram-posts-reels-scraper-pro` takes the same input at $2.90 per
 1,000 posts.
 
 Scraper page: https://apify.com/intropix/instagram-posts-reels-scraper

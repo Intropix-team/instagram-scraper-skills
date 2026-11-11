@@ -116,6 +116,6 @@ charged. Example: the newest 100 posts of one account cost about $0.20.
 
 For more fields (music, shares, location, tagged accounts, sponsor brand,
 business contacts) the PRO edition `intropix/instagram-posts-reels-scraper-pro`
-takes the same input at $3.90 per 1,000 posts.
+takes the same input at $2.90 per 1,000 posts.
 
 Scraper page: https://apify.com/intropix/instagram-posts-reels-scraper

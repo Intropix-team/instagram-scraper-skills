@@ -107,7 +107,7 @@ If the run returned fewer posts than expected, read the run's `OUTPUT` record
 ## Cost
 
 Paid by the user's own Apify account: $0.005 per run, $0.002 per account
-scanned, $0.0039 per delivered post ($3.90 per 1,000), plus $0.005 per enriched
+scanned, $0.0029 per delivered post ($2.90 per 1,000), plus $0.0035 per enriched
 partner profile. Failed lookups are not charged. Example: 100 posts with 8
 partner brands cost about $0.45.
 

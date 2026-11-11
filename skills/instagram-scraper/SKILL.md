@@ -24,7 +24,7 @@ the files.
 |---|---|---|
 | Stories that are live now (they vanish after 24 hours) | `intropix/instagram-stories-scraper` | $2.50 per 1,000 stories |
 | Posts, reels, carousels with captions, likes, comments, views, dates | `intropix/instagram-posts-reels-scraper` | $1.90 per 1,000 posts |
-| Also music, shares, location, sponsor brand names, partner sizes, the account's public email, phone, address and website | `intropix/instagram-posts-reels-scraper-pro` | $3.90 per 1,000 posts |
+| Also music, shares, location, sponsor brand names, partner sizes, the account's public email, phone, address and website | `intropix/instagram-posts-reels-scraper-pro` | $2.90 per 1,000 posts |
 
 Use the cheapest scraper that has the fields the user needs. Every run also
 costs $0.005, plus $0.002 per account scanned; failed lookups are not charged.

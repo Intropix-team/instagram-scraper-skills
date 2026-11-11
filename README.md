@@ -58,7 +58,7 @@ The skills never ask for your API token in the conversation.
   `scripts/save_media.py` (Python 3, standard library only).
 - Nothing is sent anywhere else, and the skills keep no data of their own.
 - Runs are billed to your Apify account at the scrapers' public prices: $1.90
-  per 1,000 posts, $2.50 per 1,000 stories, $3.90 per 1,000 PRO posts, plus
+  per 1,000 posts, $2.50 per 1,000 stories, $2.90 per 1,000 PRO posts, plus
   $0.005 per run and $0.002 per scanned account. Failed lookups are not charged.
 
 ## Terms

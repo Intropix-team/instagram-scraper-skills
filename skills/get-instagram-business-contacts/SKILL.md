@@ -93,7 +93,7 @@ website, which were dropped as personal, and where the CSV is.
 ## Cost
 
 Paid by the user's own Apify account: $0.005 once per run, plus $0.002 scan
-and $0.0039 for the one post per account, about $0.006 per account. 100
-accounts in one run cost about $0.60. Failed lookups are not charged.
+and $0.0029 for the one post per account, about $0.005 per account. 100
+accounts in one run cost about $0.50. Failed lookups are not charged.
 
 Scraper page: https://apify.com/intropix/instagram-posts-reels-scraper-pro
